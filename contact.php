@@ -3,8 +3,8 @@ $field_name = $_POST['cf_name'];
 $field_email = $_POST['cf_email'];
 $field_message = $_POST['cf_message'];
 
-$mail_to = 'dedalusonline@yahoo.com';
-$subject = 'Message from a site visitor '.$field_name;
+$mail_to = 'Tyraintech@gmail.com';
+$subject = 'Message from your Personal Portfolio visitor '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
 $body_message .= 'E-mail: '.$field_email."\n";
