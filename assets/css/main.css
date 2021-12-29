@@ -842,7 +842,7 @@ input, select, textarea {
 		display: block;
 	}
 
-	input[type="text"],
+	input[type="name"],
 	input[type="password"],
 	input[type="email"],
 	input[type="tel"],
